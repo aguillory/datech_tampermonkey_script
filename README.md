@@ -5,7 +5,7 @@
  This script was made to help me sort projects in my preferred order: pay-per-task first, then starred, then by price, with projects that have less than 10 tasks remaining at the bottom. 
 
 > [!IMPORTANT]
-> This website is a user-made creation designed to provide custom sorting to the DataAnnotation.tech projects tabl. It is not affiliated with, endorsed by, or sponsored by DataAnnotation or any other official entity.
+> This script is a user-made creation designed to provide custom sorting to the DataAnnotation.tech projects tabl. It is not affiliated with, endorsed by, or sponsored by DataAnnotation or any other official entity.
 
 ## Supporting the Creator
 
